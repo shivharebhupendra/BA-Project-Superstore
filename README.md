@@ -153,13 +153,23 @@ BA Documentation
 
 ---
 
-:
-
 🔔 Note
 
 Some interactive features of the dashboard may not work properly in the downloaded Excel file.
 For the best experience, please refer to the Google Sheets version of the dashboard here:
 👉 [Google Sheet Link](https://docs.google.com/spreadsheets/d/1LonwrQg-Yn3qLwGxnAMSy4iWtKm84NDRh0-uvP7OHyk/edit?usp=sharing)
+
+---
+
+## 📞 Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- **Email:** shivharebhupendra0@gmail.com  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b/)    
+- **Dashboard Link:** [Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1LonwrQg-Yn3qLwGxnAMSy4iWtKm84NDRh0-uvP7OHyk/edit?usp=sharing)
+
+*Note: Some features might not work in Excel if downloaded, so you can refer to the Google Sheets version.*
 
 ---
 
