@@ -159,7 +159,7 @@ BA Documentation
 
 Some interactive features of the dashboard may not work properly in the downloaded Excel file.
 For the best experience, please refer to the Google Sheets version of the dashboard here:
-👉 (Google Sheets Dashboard Link)[https://docs.google.com/spreadsheets/d/1LonwrQg-Yn3qLwGxnAMSy4iWtKm84NDRh0-uvP7OHyk/edit?usp=sharing]
+👉 [https://docs.google.com/spreadsheets/d/1LonwrQg-Yn3qLwGxnAMSy4iWtKm84NDRh0-uvP7OHyk/edit?usp=sharing](Google Sheets Dashboard Link)
 
 ---
 
